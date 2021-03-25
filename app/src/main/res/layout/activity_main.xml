@@ -23,7 +23,7 @@
         android:layout_marginStart="86dp"
         android:layout_marginLeft="86dp"
         android:layout_marginTop="106dp"
-        android:text="민욱의 버튼"
+        android:text="@string/button"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
